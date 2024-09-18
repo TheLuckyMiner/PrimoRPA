@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored />
+    <Breakpoints>
+        <KeyValueItem>
+            <Key>C:\Users\User\Documents\Primo\New project 12\Основы.ltw</Key>
+            <Value>4af0e4a3-7280-4154-b3a9-feb12b3db802</Value>
+        </KeyValueItem>
+    </Breakpoints>
+    <BreakpointLines />
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\User\Desktop\PrimaRPAtask\OpenFiles.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>
